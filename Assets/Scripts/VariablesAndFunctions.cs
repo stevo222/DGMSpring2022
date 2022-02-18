@@ -6,6 +6,7 @@ public class VariablesAndFunctions : MonoBehaviour
 {
     int myInt = 5;
     int myLives = 3;
+    double myDoubleint = 200;
     // Start is called before the first frame update
     void Start()
     {
@@ -25,6 +26,14 @@ public class VariablesAndFunctions : MonoBehaviour
     {
         int result;
         result = 3;
+        return result;
+    }
+
+    private double Double1 (int number)
+    {
+        double result;
+        double Double1 = number++;
+        result = 2205.4F;
         return result;
     }
 
