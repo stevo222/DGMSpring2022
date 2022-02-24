@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class MainPlayer : MonoBehaviour
 {
     [SerializeField]
@@ -38,6 +39,7 @@ public class MainPlayer : MonoBehaviour
             transform.position = new Vector3(11.15f, transform.position.y, 0);
         }
     }
+
 
 
 
