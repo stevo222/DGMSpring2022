@@ -9,10 +9,15 @@ public class While : MonoBehaviour
     void Update()
     {
         int i = 0;
-        while (i < 5)
+        while (true)
         {
-            Console.WriteLine(i);
-            i++;
+            
         }
+
+        //for (int i = 0; i < 5; i++)
+       // {
+            
+        //}
+
     }
 }
