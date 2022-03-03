@@ -102,3 +102,116 @@ Received Import Request.
 Start importing Assets/Scripts/While.cs using Guid(0bb4261fc92a6ba4aacd9323ecc859df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d1fbc962790893ef45804b41951905f') in 0.006696 seconds
   Import took 0.036147 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 313.750155 seconds.
+  path: Assets/Scripts/DualAxis.cs
+  artifactKey: Guid(56b72a220c0b2a04798d21ff1db812cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DualAxis.cs using Guid(56b72a220c0b2a04798d21ff1db812cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6431d2c8ddaeef551ee8f7d8b320e23') in 0.011491 seconds
+  Import took 0.104054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.684236 seconds.
+  path: Assets/Scripts/MovePlayer.cs
+  artifactKey: Guid(ab3257b472c5ce748b8bec83f705f510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MovePlayer.cs using Guid(ab3257b472c5ce748b8bec83f705f510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3961afdb72c9fc591d6659a15e36c168') in 0.109459 seconds
+  Import took 0.121096 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000695 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.793 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 1.688600 ms (FindLiveObjects: 0.135100 ms CreateObjectMapping: 0.030900 ms MarkObjects: 1.464900 ms  DeleteObjects: 0.056500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000852 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.798 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1577.
+Total: 1.638300 ms (FindLiveObjects: 0.131800 ms CreateObjectMapping: 0.035400 ms MarkObjects: 1.416300 ms  DeleteObjects: 0.053900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 472.287617 seconds.
+  path: Assets/Scripts/CarArrays.cs
+  artifactKey: Guid(6e920ece8854e4b4d92821f13ba60d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CarArrays.cs using Guid(6e920ece8854e4b4d92821f13ba60d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8b629aa6699c17bac58f564b7cae9df') in 0.018442 seconds
+  Import took 0.034377 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000826 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.865 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1122 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1581.
+Total: 1.717700 ms (FindLiveObjects: 0.148700 ms CreateObjectMapping: 0.030600 ms MarkObjects: 1.477200 ms  DeleteObjects: 0.060100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.765315 seconds.
+  path: Assets/Scripts/CarArrays.cs
+  artifactKey: Guid(6e920ece8854e4b4d92821f13ba60d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CarArrays.cs using Guid(6e920ece8854e4b4d92821f13ba60d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3fa6a8a6a964a10bc74737506131f90') in 0.087313 seconds
+  Import took 0.090316 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000738 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.913 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1122 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1584.
+Total: 1.914500 ms (FindLiveObjects: 0.211700 ms CreateObjectMapping: 0.037400 ms MarkObjects: 1.601600 ms  DeleteObjects: 0.062200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
